@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/jeminpansuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeminpansuriya" height="30" width="40" /></a>
 <a href="https://fb.com/Jemin Pansuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Jemin Pansuriya" height="30" width="40" /></a>
 <a href="https://instagram.com/coding_with_fun_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding_with_fun_1" height="30" width="40" /></a>
-<a href="https://www.youtube.com@/Codingwithfun-d5t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Codingwithfun-d5t" height="30" width="40" /></a>
+<a href="https://www.youtube.com/Codingwithfun-d5t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Codingwithfun-d5t" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
